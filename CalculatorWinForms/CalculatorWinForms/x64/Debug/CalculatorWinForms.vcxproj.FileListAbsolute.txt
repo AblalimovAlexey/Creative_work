@@ -1,0 +1,4 @@
+E:\source\repos\CalculatorWinForms\CalculatorWinForms\x64\Debug\CalculatorWinForms.vcxproj.AssemblyReference.cache
+E:\source\repos\CalculatorWinForms\CalculatorWinForms\x64\Debug\CalculatorWinForms.vcxproj.SuggestedBindingRedirects.cache
+E:\source\repos\CalculatorWinForms\CalculatorWinForms\x64\Debug\CalculatorWinForms.MyForm.resources
+E:\source\repos\CalculatorWinForms\CalculatorWinForms\x64\Debug\CalculatorWinForms.vcxproj.GenerateResource.cache
