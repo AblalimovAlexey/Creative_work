@@ -3,7 +3,7 @@
 #include <map>
 #include <string>
 
-std::map <int, double> index_value{
+std::map <int, const double> index_value{
 		{0, 1},
 		{1, 63.5643},
 		{2, 66.6135},
@@ -97,7 +97,9 @@ std::map <int, double> index_value{
 		{88,3.98585},
 		{89,0.002903},
 		{90,0.415068},
-		{91,0.491565}
+		{91,0.491565},
+		{92, 1},
+		{93, 1}
 	};
 
 namespace CalculatorWinForms {
